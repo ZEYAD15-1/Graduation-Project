@@ -1,4 +1,4 @@
-# Graduation Project – WiFi Attack Report
+# Project Cyber security – WiFi Attack 
 
 This repository contains our university project report about WiFi security attacks and penetration testing tools.
 
