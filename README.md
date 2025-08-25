@@ -1,27 +1,40 @@
-# Project Cyber security – WiFi Attack 
+# 🎓 Graduation Project & Cyber Security Project
 
-This repository contains our university project report about WiFi security attacks and penetration testing tools.
+## 📌 الوصف | Description
+هذا المستودع يحتوي على مشروعين أكاديميين:
 
-## 📑 Report
-- [Report Attack WiFi (PDF)](./Report%20Attack%20wifi.pdf)
+1. **Entabih (انتبه) - مشروع التخرج**  
+   تطبيق ذكي يعتمد على الذكاء الاصطناعي (NLP + GPT + ML) للكشف عن محاولات الاحتيال في النصوص والرسائل.  
+   يهدف إلى حماية المستخدمين في السعودية من عمليات الاحتيال الإلكتروني عبر تحليل النصوص بشكل لحظي وتقديم درجة خطورة للمحتوى.  
 
-## 👥 Authors
-- **Zyad AL-Bshry** (443006946)  
-- **Faris AL-Lahibi** (443003119)  
+2. **WiFi Attack Report - مشروع الأمن السيبراني**  
+   تقرير أكاديمي يشرح أبرز أنواع هجمات الشبكات اللاسلكية (Evil Twin, MitM, DoS, KRACK) والأدوات المستخدمة (Kali Linux, Aircrack-ng, Crunch) مع توضيح الجوانب الأخلاقية والقانونية.  
 
-## 🛠️ Tools Used
-- **Kali Linux** – penetration testing OS  
-- **USB Wireless Adapter** – for WiFi testing  
-- **Aircrack-ng Suite** (Airmon-ng, Airodump-ng, Aireplay-ng, Aircrack-ng)  
-- **Crunch** – wordlist generator  
+---
 
-## 🔐 Topics Covered
-- Evil Twin Attack  
-- Man-in-the-Middle (MitM) Attack  
-- Denial-of-Service (DoS) Attack  
-- KRACK Attack  
+## 📂 الملفات | Files
+- `GP2.M2.1.pdf` → تقرير مشروع التخرج "Entabih".  
+- `Presentation GP2.M2.1.pptx` → عرض تقديمي لمشروع التخرج.  
+- `Report Attack wifi.pdf` → تقرير مشروع السايبر (هجمات WiFi).  
+- `README.md` → هذا الملف التوضيحي.  
 
-## 📌 Conclusion
-WiFi hacking is illegal and unethical.  
-This project is purely educational and focuses on ethical penetration testing and security awareness.  
+---
 
+## 🚀 طريقة الاستخدام | Usage
+- مشروع التخرج: الملفات للقراءة فقط (PDF + عرض تقديمي).  
+- مشروع السايبر: تقرير نظري/تطبيقي يشرح خطوات وأدوات الاختبار الأمني.  
+> ⚠️ ملاحظة: الأدوات المذكورة في تقرير السايبر مثل Kali Linux وAircrack-ng يجب استخدامها لأغراض تعليمية وأخلاقية فقط.  
+
+---
+
+## 👥 الفريق | Team
+- Mohammed Abdulrahman Al-Saedi  
+- Zyad Ibrahim Al-Bshry  
+- Faris Saud Al-Otaibi  
+- Omar Abdulrahim Alharbi  
+- Abdullah Fahad Majrashi  
+
+---
+
+## 📜 الرخصة | License
+جميع المشاريع هنا لأغراض أكاديمية وتعليمية فقط.
